@@ -23,7 +23,11 @@ redo
 help
  
 ```
+- My solution
 
+Decorator Software Design Pattern for emoji decoration.
+Command Software Design Pattern for Undo/Redo.
+ 
 - PUML
 
  the automated PUML extensions for VS Code
