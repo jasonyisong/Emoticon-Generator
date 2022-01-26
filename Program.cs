@@ -12,7 +12,7 @@ using System;
 using System.IO;
 //using System.Collections.Generic;
 
-namespace cs264_exam_coding_assignment
+namespace exam_coding_assignment
 {
     class Program
     {
