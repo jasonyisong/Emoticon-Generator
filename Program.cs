@@ -1,8 +1,8 @@
 // created by Yi Song 2022/1/14
 // VS code at Macbook Pro Env.
 // Net5.0
-// I implement the Decorator Software Design Pattern for emoji decoration.
-// I implement the Command Software Design Pattern for Undo/Redo.
+// I implemented the Decorator Software Design Pattern for emoji decoration.
+// I implemented the Command Software Design Pattern for Undo/Redo.
 // vscode generate Class Diagram by using csharp plantUML
 // reference: https://dotnettutorials.net/lesson/decorator-design-pattern-real-time-example/ . Decorator
 // Reference L08.04 - A `Stack<T>` Class Example: Implementing an Undo-Redo System using Stacks. Command-driven
