@@ -25,5 +25,7 @@ help
 ```
 
 - PUML
+
+ the automated PUML extensions for VS Code
  
 ![image](https://user-images.githubusercontent.com/33503189/151129678-4c420cae-2437-41f3-af5f-f1a167f6c2fb.png)
