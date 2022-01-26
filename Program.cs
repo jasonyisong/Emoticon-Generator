@@ -1,4 +1,4 @@
-// created by Song 2022/1/14
+// created by Yi Song 2022/1/14
 // VS code at Macbook Pro Env.
 // Net5.0
 // I implement the Decorator Software Design Pattern for emoji decoration.
